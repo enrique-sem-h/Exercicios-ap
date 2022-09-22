@@ -13,6 +13,6 @@ int main(){
     printf("O numero 1(%f) e maior que o numero 2(%f)\n", n1, n2);
     else if (n1 == n2)
     printf("Voce inseriu 2 numeros iguais\n");
-    else
+    else 
     printf("O numero 2(%f) e maior que o numero 1(%f)\n", n2, n1);
 }
