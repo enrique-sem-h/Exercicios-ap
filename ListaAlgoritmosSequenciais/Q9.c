@@ -8,7 +8,7 @@ int main(){
     printf("Digite o nome do funcionario: ");
     scanf("%s", &nome);
 
-    printf("Qual o saraio desse funcionario (R$)?\n");
+    printf("Qual o salario desse funcionario (R$)?\n");
     scanf("%f", &salario);
 
     printf("Quanto %s fez em vendas (R$)?\n", nome);
